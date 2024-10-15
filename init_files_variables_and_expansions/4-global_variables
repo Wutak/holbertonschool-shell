@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | grep
+export HBTN=89 printenv| grep HBTN
